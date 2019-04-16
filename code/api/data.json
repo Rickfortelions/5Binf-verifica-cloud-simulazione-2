@@ -13,6 +13,16 @@
             "title":"GitHub",
             "desc":"Moodle della scuola, con il materiale dei docenti e la consegna dei compiti in classe online.",
             "buttonUrl":"moodle"
+        },{
+            "imgUrl":"img/cisco.png",
+            "title":"CISCO Sim Desktop",
+            "desc":"Simulatore di assemblaggio computer desktop, creato da CISCO.",
+            "buttonUrl":"Accedi"
+        },{
+            "imgUrl":"img/cisco.png",
+            "title":"CISCO Sim Desktop",
+            "desc":"Simulatore di assemblaggio computer laptop, creato da CISCO.",
+            "buttonUrl":"Accedi"
         }
     ]
 }
